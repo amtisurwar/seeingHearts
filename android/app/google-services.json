@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466024409447",
+    "firebase_url": "https://seeinghearts-4d13c.firebaseio.com",
+    "project_id": "seeinghearts-4d13c",
+    "storage_bucket": "seeinghearts-4d13c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466024409447:android:783fc594165f586f",
+        "android_client_info": {
+          "package_name": "com.seeinghearts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466024409447-l6o1js98ncn1308jk4ailgv4j5t5jc2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0P6zzx_ISwsYm54v7KEXeaR90YNEJGPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466024409447-l6o1js98ncn1308jk4ailgv4j5t5jc2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
